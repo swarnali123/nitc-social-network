@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "101047998602",
+    "project_id": "nitcsocialmedia",
+    "storage_bucket": "nitcsocialmedia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101047998602:android:2a7e4c44dc631bbad9f573",
+        "android_client_info": {
+          "package_name": "com.sdkproject.nitcsocialmedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101047998602-853bo9bm0mo3ttlush1r6sodl8vstnag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM_IZ1Fpxcv2w4DpUh8GQZu2chtNnxqyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101047998602-853bo9bm0mo3ttlush1r6sodl8vstnag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
